@@ -53,7 +53,7 @@ _docker ()
         ;;
         (options)
             case $line[1] in
-                (attach|diff|export|kill|logs|port|top|restart|rm|run|start|stop|wait)
+                (attach|diff|export|inspect|kill|logs|port|top|restart|rm|run|start|stop|wait)
                     __docker_containers
                 ;;
                 (commit)
