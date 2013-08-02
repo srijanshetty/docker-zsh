@@ -1,4 +1,14 @@
-docker-zsh
+Docker Zsh
 ==========
 
-Oh-My-Zsh plugin for docker auto completion
+This will add docker completion for docker and currently support displaying the list of containers and images. If you make any changes, please feel free to pull request !
+
+## How to install ?
+
+```
+cd ~/.oh-my-zsh/plugins
+git clone https://github.com/adrien-f/docker-zsh.git
+```
+
+Modify your ~/.zshrc and add docker to the list of plugins, reload (close your terminal or source ~/.zshrc) and done !
+
