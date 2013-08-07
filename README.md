@@ -7,7 +7,7 @@ This will add docker completion for docker and currently support displaying the 
 
 ```
 cd ~/.oh-my-zsh/plugins
-git clone https://github.com/adrien-f/docker-zsh.git
+git clone https://github.com/adrien-f/docker-zsh.git docker
 ```
 
 Modify your ~/.zshrc and add docker to the list of plugins, reload (close your terminal or source ~/.zshrc) and done !
