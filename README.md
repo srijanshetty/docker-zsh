@@ -6,7 +6,7 @@ This will add docker completion for docker and currently support displaying the 
 ## How to install ?
 
 ```
-cd ~/.oh-my-zsh/plugins
+cd ~/.oh-my-zsh/custom/plugins
 git clone https://github.com/adrien-f/docker-zsh.git docker
 ```
 
